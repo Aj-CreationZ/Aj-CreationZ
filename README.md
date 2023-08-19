@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aj-CreationZ
 - 👀 I’m interested in web development and software development
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on an reputed company
 - 📫 ajay171098@gmail.com
 
